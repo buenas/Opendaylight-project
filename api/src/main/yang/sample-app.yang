@@ -1,0 +1,9 @@
+module sample-app {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:sample-app";
+    prefix "sample-app";
+
+    revision "2015-01-05" {
+        description "Initial revision of sample-app model";
+    }
+}
